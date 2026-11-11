@@ -10,7 +10,7 @@
 <h1 align="center">Kyle Niedzwiecki</h1>
 
 <p align="center">
-  <strong>Cryptocurrency developer</strong> &nbsp;&middot;&nbsp; <strong>Investment group CTO</strong> &nbsp;&middot;&nbsp; <strong>Full-stack builder for operating businesses</strong> &nbsp;&middot;&nbsp; <strong>Skatepark architect</strong> &nbsp;&middot;&nbsp; <strong>Founder of <a href="https://skatedex.com">Skatedex</a></strong>
+  <strong>Cryptocurrency developer</strong> &nbsp;&middot;&nbsp; <strong>Investment group CTO</strong> &nbsp;&middot;&nbsp; <strong>Full-stack builder for operating businesses</strong> &nbsp;&middot;&nbsp; <strong>Skatepark liaison</strong> &nbsp;&middot;&nbsp; <strong>Founder of <a href="https://skatedex.com">Skatedex</a></strong>
 </p>
 
 <p align="center">
@@ -51,9 +51,9 @@ I build and run the web presence for real companies: investment firms, an energy
 
 I build agents that operate real systems, not demos. [kcoder](https://github.com/kjniedz/kcoder) is my own terminal coding agent and the daemon that runs it. The trading engine's operator agent vets tokens, tunes parameters within bounds, watches for anomalies and writes the daily journal on its own cadence.
 
-### Skatepark architect
+### Skatepark liaison
 
-I design skateparks and I built the place skaters go to find them. Concrete, flow and the way a park actually rides matter as much as the drawings.
+I keep the record of the world's skateparks current: new parks, rebuilds, closures, obstacles, photos and hours, for parks across the globe. Cities, builders and skaters send the updates and I make sure they land where skaters will find them.
 
 ### Founder of Skatedex
 
