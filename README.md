@@ -68,6 +68,7 @@ I keep the record of the world's skateparks current: new parks, rebuilds, closur
 - [kcoder](https://github.com/kjniedz/kcoder): a terminal coding agent and the daemon that runs it.
 - [ICPWatch](https://github.com/kjniedz/ICPWatch): markets, network and canister health for the Internet Computer. One Cloudflare Worker: Hono SSR, D1, cron collectors, and a Lifeline monitor that reads cycle balances through every public path the IC offers.
 - [0xCairn](https://github.com/kjniedz/0xCairn): vanity address generator for every EVM chain. Rust compiled to WASM plus a WebGPU kernel, entirely in the browser, with a cloud mining service designed so the service can never learn your key.
+- [Granite Wallet](https://github.com/kjniedz/granite-wallet): self-custody browser extension wallet for Ethereum, Polygon, BNB Chain, Avalanche, Arbitrum, Optimism, Base and Solana. Manifest V3, EIP-1193 and EIP-6963, AES-256-GCM vault, every signature approved in the popup. Beta.
 
 ---
 
