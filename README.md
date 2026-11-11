@@ -21,11 +21,11 @@
 
 ### Investment group CTO and fund tech
 
-I run technology for Black Mountain Investment Group and the companies around it. That means the systems a fund actually operates on: fund administration and portfolio management (Easefolio), exchange and custody integrations, deal data rooms, investor sites, event and RSVP flows, a headless CMS, and the ledger that every trading strategy writes to. The fund's trading engine runs Wyckoff and PSAR strategies across a spot exchange and DEX pools with one ledger and a Claude agent as the operator.
+I run technology for Black Mountain Investment Group and the companies around it. That means the systems a fund actually operates on: fund administration and portfolio management (Easefolio), exchange and custody integrations, deal data rooms, investor sites, event and RSVP flows, a headless CMS, and the ledger that every trading strategy writes to. The fund's trading engine runs Wyckoff and PSAR strategies across a spot exchange and DEX pools with one ledger behind all of it.
 
 ### Cryptocurrency developer
 
-Trading systems and on-chain tooling: multi-venue trading engines, exchange and wallet integrations, a GPU vanity address generator, network and canister monitoring for the Internet Computer, and crypto education and market data at Coinucation. Most of it is in the [Black Mountain Investment Group](https://github.com/Black-Mountain-Investment-Group) organization; the open parts are below.
+Early Ethereum developer and memecoin developer. Trading systems and on-chain tooling: multi-venue trading engines, a memecoin scanner and scalper with honeypot simulation and launch detection across BNB Chain, Ethereum, Base, Ink and Robinhood Chain, exchange and wallet integrations, a GPU vanity address generator, network and canister monitoring for the Internet Computer, and crypto education and market data at Coinucation. Most of it is in the [Black Mountain Investment Group](https://github.com/Black-Mountain-Investment-Group) organization; the open parts are below.
 
 ### Full-stack builder for operating businesses
 
